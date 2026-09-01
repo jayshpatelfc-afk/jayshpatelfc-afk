@@ -1,9 +1,5 @@
 <div align="center">
-
-# 👋 Hey, I'm Jaysh!
-
-### 🐍 Python Developer | 🤖 AI Enthusiast | 🗄️ Database & Backend
-
-Building things. Learning things. Breaking things. 🚀
-
+# 👋 Jaysh Patel
+### 🐍 Python • 🤖 AI • ⚙️ Backend
+**Building the future 🚀**
 </div>
