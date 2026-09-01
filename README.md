@@ -4,12 +4,6 @@
 
 <br>
 
-# 👋 Hey, I'm Jaysh!
-
-### 🐍 Python • 🤖 AI • ⚙️ Backend & Database
-
-**Build • Learn • Repeat 🚀**
-
 <br>
 
 <a href="https://github.com/jayshpatelfc-afk">
