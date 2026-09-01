@@ -8,20 +8,18 @@
 
 **Build • Learn • Repeat 🚀**
 
----
+<br>
 
-### 🌐 Connect With Me
+<a href="https://github.com/jayshpatelfc-afk">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
+
 <a href="YOUR_INSTAGRAM_URL">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/jayshpatelfc-afk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -35,17 +33,17 @@
 - 🗄️ Database & Backend
 - ☕ Java Developer
 - ⚡ Building practical projects
-- 🚀 Always learning new technology
+- 🚀 Learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,sqlite,git,github,vscode,linux">
 
-</p>
+</div>
 
 ---
 
@@ -53,6 +51,7 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🧠 ResumeMatcher
@@ -72,9 +71,11 @@ Hospital operations and database management system.
 **Python • Backend • Database**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🤖 RootEase AI
@@ -89,25 +90,26 @@ AI-focused project exploring intelligent automation.
 
 ### ⚡ More Projects
 
-Check out my repositories for more experiments, tools and projects.
+Check out my repositories for more projects and experiments.
 
 <a href="https://github.com/jayshpatelfc-afk?tab=repositories">
 View All Projects →
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayshpatelfc-afk&show_icons=true&theme=tokyonight&hide_border=true">
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshpatelfc-afk&layout=compact&theme=tokyonight&hide_border=true">
 
