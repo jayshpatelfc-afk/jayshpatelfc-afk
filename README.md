@@ -103,40 +103,6 @@ View All Projects →
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jayshpatelfc-afk&show_icons=true&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshpatelfc-afk&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jayshpatelfc-afk&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jayshpatelfc-afk/jayshpatelfc-afk/output/github-contribution-grid-snake.svg">
-
-</div>
-
----
-
 ## 👀 Profile Views
 
 <div align="center">
