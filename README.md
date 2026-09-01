@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.png" width="100%">
+<img src="./banner.gif" width="100%">
+
+<br>
 
 # 👋 Hey, I'm Jaysh!
 
@@ -60,6 +62,12 @@ AI-powered resume matching system that analyzes resumes against job descriptions
 
 **Python • AI/NLP • SQLite**
 
+<br>
+
+<a href="https://github.com/jayshpatelfc-afk/ResumeMatcher">
+View Project →
+</a>
+
 </td>
 
 <td width="50%">
@@ -69,6 +77,12 @@ AI-powered resume matching system that analyzes resumes against job descriptions
 Hospital operations and database management system.
 
 **Python • Backend • Database**
+
+<br>
+
+<a href="https://github.com/jayshpatelfc-afk/MediGrid">
+View Project →
+</a>
 
 </td>
 
@@ -84,13 +98,21 @@ AI-focused project exploring intelligent automation.
 
 **Python • AI**
 
+<br>
+
+<a href="https://github.com/jayshpatelfc-afk/Spb0190">
+View Project →
+</a>
+
 </td>
 
 <td width="50%">
 
 ### ⚡ More Projects
 
-Check out my repositories for more projects and experiments.
+Explore my repositories and check out what I'm building.
+
+<br>
 
 <a href="https://github.com/jayshpatelfc-afk?tab=repositories">
 View All Projects →
@@ -100,6 +122,22 @@ View All Projects →
 
 </tr>
 </table>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</div>
 
 ---
 
