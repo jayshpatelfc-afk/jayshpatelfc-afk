@@ -4,8 +4,6 @@
 
 ### 🐍 Python | 🤖 AI | 🗄️ Backend & DB
 
-**Build • Learn • Repeat 🚀**
-
 </div>
 <div align="center">
 
